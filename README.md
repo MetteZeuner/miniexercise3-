@@ -1,8 +1,9 @@
 # miniexercise3-
 Designing a Throbber
 
-![ScreenShot]
- <https://mettezeuner.github.io/miniexercise3-/empty-example-kopi/> 
+![ScreenShot](https://github.com/MetteZeuner/miniexercise3-/blob/gh-pages/Throbber.png)
+
+My throbber:  <https://mettezeuner.github.io/miniexercise3-/empty-example-kopi/> 
 
 <h3>Describe a bit about your throbber design (your concept and execution)<h3> 
 
